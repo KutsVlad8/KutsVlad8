@@ -13,7 +13,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer from Ukraine.
+I am a Front End Developer from Ukraine.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/kutsevych-vladyslav?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV8wqzCscQW22jDd2tjJCDw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
